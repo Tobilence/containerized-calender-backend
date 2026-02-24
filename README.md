@@ -1,6 +1,7 @@
 # Containerized Java Spring Api
 
-This is a legacy project, which was part of a school assignment back in 2018.
+This is a legacy project, which was part of a school assignment back in 2018. \
+Check out the corresponding Frontend written in Vue.js [here](https://github.com/Tobilence/calendar-frontend-vue). 
 
 ## Usage
 This app serves as a backend for a calendar app.
