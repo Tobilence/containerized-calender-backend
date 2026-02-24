@@ -1,9 +1,9 @@
-# NVS Calendar Project
+# Containerized Java Spring Api
 
-This is a Web Application which serves as a calendar.
+This is a legacy project, which was part of a school assignment back in 2018.
 
 ## Usage
-This app serves as a backend for a calendar app. \
+This app serves as a backend for a calendar app.
 It provides a rest-api to add events and add/retrieve both events and national holidays 
 
 ## Deployment
